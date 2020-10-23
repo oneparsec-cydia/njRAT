@@ -1,7 +1,8 @@
 ## Welcome to OneParsec GitHub Pages
 **If you want to download a njRAT**
-
+<center>
 <a href="https://github.com/OneParsec/njRAT/releases/tag/v0.7D"><img title="njRATs Editions" src="https://img.shields.io/badge/njRATs-Editions-red" ></a>
+</center>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
