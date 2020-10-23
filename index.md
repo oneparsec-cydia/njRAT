@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/OneParsec/njRAT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## Welcome to OneParsec GitHub Pages
+**If you want to download a njRAT**
+<a href="https://github.com/OneParsec/njRAT/releases/tag/v0.7D"><img title="njRATs Editions" src="https://img.shields.io/badge/njRATs-Editions-red" ></a>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
